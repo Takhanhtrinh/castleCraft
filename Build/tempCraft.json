@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "castle",
+"dataUrl": "tempCraft.data.unityweb",
+"asmCodeUrl": "tempCraft.asm.code.unityweb",
+"asmMemoryUrl": "tempCraft.asm.memory.unityweb",
+"asmFrameworkUrl": "tempCraft.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
